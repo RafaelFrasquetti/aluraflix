@@ -6,14 +6,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2Px rgb(0, 0, 0);
+    border-bottom: solid 2Px rgb(black);
     padding: 20Px;
     font-size: 32Px;
-    color: rgb(241, 241, 241);
+    color: rgb(white);
 }
 
-section {
-    background: rgb(87, 87, 87);
+.chamada {
+    background: rgb(black);
     padding-bottom: 80Px;
     padding-top: 80Px;
     display: flex;
