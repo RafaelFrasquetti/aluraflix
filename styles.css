@@ -1,19 +1,19 @@
 body {
-    color: rgb(61, 52, 51);
-    background: rgb(white);
+    color: rgb(white);
+    background: rgb(black);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-    border-bottom: solid 2Px rgb(black);
+    border-bottom: solid 2Px rgb(blue);
     padding: 20Px;
     font-size: 32Px;
-    color: rgb(black);
+    color: rgb(green);
 }
 
 .chamada {
-    background: rgb(rgb(blue));
+    background: rgb(rgb(yellow));
     padding-bottom: 80Px;
     padding-top: 80Px;
     display: flex;
@@ -55,5 +55,5 @@ img {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid rgb(green); 
+    border: 1px solid rgb(pink); 
 }
